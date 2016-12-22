@@ -1,9 +1,9 @@
 # -*- coding: cp1251 -*-
 print ('')
-print ('  Password Generation Tool 1.0, GPL v.2 only.')
+print ('  Password Generation Tool 1.0g, GPL v.3')
 print ('  E-mail: Andrew Golubev <ganrage@fastmail.fm>')
 print ('')
-print ('')
+
 
 import random
 
