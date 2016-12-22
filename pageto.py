@@ -3,6 +3,7 @@ print ('')
 print ('  Password Generation Tool 1.0, GPL v.2 only.')
 print ('  E-mail: Andrew Golubev <ganrage@fastmail.fm>')
 print ('')
+print ('')
 
 import random
 
