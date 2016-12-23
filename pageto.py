@@ -9,7 +9,7 @@ import random
 
 a=''
 
-PassAmount=18
+PassAmount=20
 PassLenght=20
 
 L='1234567890qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM.:;"*-_=+%$#^&()@!?[]{}|/`~,<>'
